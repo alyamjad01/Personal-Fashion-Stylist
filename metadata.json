@@ -1,0 +1,6 @@
+{
+  "name": "Sindon — Personal Fashion Stylist",
+  "description": "South Asian and global personal fashion stylist providing undertone colour palettes, silhouette guidance, and size-chart fit checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
